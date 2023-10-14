@@ -21,7 +21,7 @@ This repository contains a concept preview of Athena, a school application desig
 
 ## Feedback and Contributions
 
-We welcome feedback, suggestions, and contributions to improve Athena's concept preview. If you have ideas or want to collaborate, please feel free to [open an issue](https://github.com/your-username/Athena/issues) or [submit a pull request](https://github.com/your-username/Athena/pulls).
+We welcome feedback, suggestions, and contributions to improve Athena's concept preview. If you have ideas or want to collaborate, please feel free to [open an issue](https://github.com/Al-Battashi/Athena/issues) or [submit a pull request](https://github.com/Al-Battashi/Athena/pulls).
 
 ## License
 
