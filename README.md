@@ -34,6 +34,6 @@ FlutterFlow
 ## Contact
 
 * Email : syntax@3lo.me
-* Github : [Syntax](http://127.0.0.1:5000/u/9FxmuMZhIIeQ8ovs6JysT1WOXye2)
+* Github : [Syntax](http://github.com/al-battashi)
 * Twitter : [Syntax](https://twitter.com/saleh4tv)
 
